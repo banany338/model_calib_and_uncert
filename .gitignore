@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.venv-transformers/
+venv/
+.pytest_cache/
+reports/
+reports_*/
+reports_transformers/
+outputs/
+data/train.csv
+nlp-getting-started/
